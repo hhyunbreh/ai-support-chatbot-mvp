@@ -1,23 +1,23 @@
-# AI Support Chatbot MVP
+# AI Microfix Sprint
 
-A fixed-scope landing page for a small AI support chatbot and automation service.
+A public, fixed-scope portfolio page for small frontend fixes and lightweight automations.
 
-Live demo: https://hhyunbreh.github.io/ai-support-chatbot-mvp/
+Live portfolio: https://hhyunbreh.github.io/ai-support-chatbot-mvp/
 
-## What This Offers
+## Current Offer
 
-- FAQ chatbot MVPs for repetitive customer questions
-- Lead-intake flows for service businesses
-- Handoffs to a human when the assistant is unsure
-- Lightweight setup notes and test scenarios
+- One React, Next.js, or TypeScript frontend bug with a clear reproduction
+- A focused patch or demo plus verification notes
+- No production secrets, API keys, or private customer data needed for a first proof
+- AI-assisted engineering disclosed, with changes reviewed and tested before delivery
 
-## Example Use Cases
+## Working Proof
 
-- Cleaning service quote intake
-- Beauty / esthetics appointment questions
-- Small ecommerce FAQ and order-support flow
-- Simple lead routing to email, spreadsheets, Slack, or webhooks
+This account includes public pull requests demonstrating scoped implementation and testing work:
 
-## Safety Notes
+- Readable netlist pin-label fix: https://github.com/tscircuit/circuit-json-to-readable-netlist/pull/643
+- RandomX hashrate-unit fix: https://github.com/tari-project/universe/pull/3256
 
-This is not meant to replace a human support team. The goal is to reduce repetitive first replies, collect useful details, and escalate sensitive or unclear requests to a person.
+## Safety
+
+Buyers should remove passwords, tokens, `.env` secrets, customer data, and production credentials before sharing any reproduction. Payment and communication should stay inside the agreed platform or documented bounty flow.
